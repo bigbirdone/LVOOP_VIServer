@@ -63,6 +63,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 		</Item>
+		<Item Name="init control_ring.vi" Type="VI" URL="../init/init control_ring.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#?!!!!"!!%!!!!*E"Q!"Y!!"%01W^O&gt;(*P&lt;#ZM&gt;G.M98.T!!N$&lt;WZU=G^M)'^V&gt;!!91(!!#!!!!#)!!!N3;7ZH)&amp;*F:GZV&lt;1"5!0!!$!!!!!!!!1!!!!!!!!!!!!!!!!!!!!)!!!)!!(A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!3!!!!!!!!!!!"!!-!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+		</Item>
 		<Item Name="init control_string.vi" Type="VI" URL="../init/init control_string.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#?!!!!"!!%!!!!*E"Q!"Y!!"%01W^O&gt;(*P&lt;#ZM&gt;G.M98.T!!N$&lt;WZU=G^M)'^V&gt;!!91(!!#!!!!"M!!!J4&gt;()A5G6G&lt;H6N!!"5!0!!$!!!!!!!!1!!!!!!!!!!!!!!!!!!!!)!!!)!!(A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!3!!!!!!!!!!!"!!-!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

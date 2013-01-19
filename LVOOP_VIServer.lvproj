@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Control.lvclass" Type="LVClass" URL="../Classes/Control/Control.lvclass"/>
 		<Item Name="Path Control.lvclass" Type="LVClass" URL="../Classes/Path Control/Path Control.lvclass"/>
+		<Item Name="Ring Control.lvclass" Type="LVClass" URL="../Classes/Ring Control/Ring Control.lvclass"/>
 		<Item Name="String Control.lvclass" Type="LVClass" URL="../Classes/String Control/String Control.lvclass"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
